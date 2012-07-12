@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
 
+gem 'rb-readline'
+
 group :development do
   gem 'sqlite3'
 end
